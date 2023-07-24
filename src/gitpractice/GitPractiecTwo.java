@@ -6,7 +6,9 @@ public class GitPractiecTwo {
 		System.out.println("This is for push practiec");
 		System.out.println("This is for push practiec one");
 		System.out.println("This is for push practiec two");
-		
+
+		System.out.println("This is for pull practice four");
+
 	}
 
 }

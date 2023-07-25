@@ -8,5 +8,4 @@ public class TestBranch {
 		System.out.println("This is for branch purpose second");
 		
 	}
-
 }
